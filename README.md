@@ -12,6 +12,8 @@
 - Intelligence
 - Energy
 
+---
+
 ## 🛠️ Tech Stack
 - Java
 - Spring Boot
@@ -20,6 +22,7 @@
 - HTML/CSS
 - Basic JavaScript
 
+---
 
 ## 🌿 What I Believe
 > "Calm seas never made a skilled sailor.  
