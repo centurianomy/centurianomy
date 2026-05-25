@@ -25,6 +25,4 @@
 ---
 
 ## 🌿 What I Believe
-> "Calm seas never made a skilled sailor.  
-> Fast growth doesn’t always mean strong roots.  
-> Real growth takes time, and deep roots can break even the hardest stones."
+> “That which does not kill us makes us stronger.”
