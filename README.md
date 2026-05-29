@@ -23,4 +23,4 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=centurianomy&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=centurianomy&theme=github-dark)
