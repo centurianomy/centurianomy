@@ -1,4 +1,4 @@
-## 🌿 What I Believe
+
 > “That which does not kill us makes us stronger.”
 
 ## Hi there 👋 I'm Chirag Rawat
